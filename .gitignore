@@ -1,0 +1,11 @@
+# derectories
+devel/
+build/
+src/first_pkg
+src/my_package
+
+#catkin_depends
+.catkin_workspace
+
+#swp files 
+*.swp
